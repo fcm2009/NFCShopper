@@ -20,6 +20,7 @@ import android.view.WindowManager;
 import android.widget.RelativeLayout;
 
 import com.vuforia.samples.VuforiaSamples.R;
+import com.vuforia.samples.VuforiaSamples.app.ImageTargets.ImageTargets;
 
 
 public class ActivitySplashScreen extends Activity {
@@ -49,7 +50,7 @@ public class ActivitySplashScreen extends Activity {
             public void run() {
 
                 Intent intent = new Intent(ActivitySplashScreen.this,
-                        ActivityLauncher.class);
+                        ImageTargets.class);
                 startActivity(intent);
 
             }
