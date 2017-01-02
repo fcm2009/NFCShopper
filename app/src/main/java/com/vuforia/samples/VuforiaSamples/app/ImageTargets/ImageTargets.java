@@ -311,9 +311,7 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
         if (mCurrentDataset == null)
             return false;
 
-        if (!mCurrentDataset.load(
-                mDatasetStrings.get(mCurrentDatasetSelectionIndex),
-                STORAGE_TYPE.STORAGE_APPRESOURCE))
+        if (!mCurrentDataset.load("ImageTargets/Demo.xml", STORAGE_TYPE.STORAGE_APPRESOURCE))
             return false;
 
         if (!objectTracker.activateDataSet(mCurrentDataset))

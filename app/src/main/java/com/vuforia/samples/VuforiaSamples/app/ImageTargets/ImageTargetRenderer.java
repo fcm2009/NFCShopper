@@ -199,7 +199,7 @@ public class ImageTargetRenderer implements GLSurfaceView.Renderer, SampleAppRen
 
             int textureIndex = trackable.getName().equalsIgnoreCase("stones") ? 0
                     : 1;
-            textureIndex = trackable.getName().equalsIgnoreCase("tarmac") ? 2
+            textureIndex = trackable.getName().equalsIgnoreCase("stinkbug") ? 2
                     : textureIndex;
 
             // deal with the modelview and projection matrices
