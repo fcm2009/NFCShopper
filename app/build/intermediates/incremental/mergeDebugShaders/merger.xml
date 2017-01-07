@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/fcm2009/Downloads/lib/samples/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/fcm2009/Downloads/lib/samples/app/src/debug/shaders"/></dataSet></merger>

@@ -68,6 +68,8 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
     private int mDatasetsNumber = 0;
     private ArrayList<String> mDatasetStrings = new ArrayList<String>();
 
+    private String[] categories;
+
     // Our OpenGL view:
     private SampleApplicationGLView mGlView;
 
@@ -104,6 +106,8 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
     protected void onCreate(Bundle savedInstanceState) {
         Log.d(LOGTAG, "onCreate");
         super.onCreate(savedInstanceState);
+
+        categories = getIntent().getStringArrayExtra("ImageNames");
 
         vuforiaAppSession = new SampleApplicationSession(this);
 
@@ -313,6 +317,20 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
 
         if (!mCurrentDataset.load("ImageTargets/Food.xml", STORAGE_TYPE.STORAGE_APPRESOURCE))
             return false;
+
+        for(int i = 0; i < mCurrentDataset.getNumTrackables(); i++) {
+            boolean included = false;
+
+            for(int j = 0; j < categories.length; j++) {
+                if(mCurrentDataset.getTrackable(i).getName().equalsIgnoreCase(categories[j])) {
+                    included = true;
+                    break;
+                }
+            }
+
+            if(!included)
+                mCurrentDataset.destroy(mCurrentDataset.getTrackable(i));
+        }
 
         if (!objectTracker.activateDataSet(mCurrentDataset))
             return false;

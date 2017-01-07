@@ -8,11 +8,27 @@
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable-xxhdpi/chevron_64.png"
     },
     {
+        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
+        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable-xxhdpi/icon.png"
     },
     {
+        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable-xxhdpi/camera_48.png",
+        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable-xxhdpi/camera_48.png"
+    },
+    {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable-xxhdpi/chevron_64.png",
+        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable-xxhdpi/chevron_64.png"
+    },
+    {
+        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable-xxhdpi/logo.png"
     }
 ]
