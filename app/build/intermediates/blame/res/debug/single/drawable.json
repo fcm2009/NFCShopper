@@ -1,86 +1,86 @@
 [
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/close_button_background.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/close_button_background.xml"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/bg00.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/bg00.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/new_target_button_background.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/new_target_button_background.xml"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_03.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_03.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/bg70.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/bg70.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/camera_button_background.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/camera_button_background.xml"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/icon_camera_normal.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/icon_camera_normal.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_camera_pressed.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_camera_pressed.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/bg00.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/bg00.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/new_target_button_background.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/new_target_button_background.xml"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/icon_01.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/icon_01.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_plus_normal.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_plus_normal.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/icon_plus_normal.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/icon_plus_normal.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/card_info.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/card_info.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/round_bg.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/round_bg.xml"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/bg70.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/bg70.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/icon.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/icon.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/round_bg.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/round_bg.xml"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/icon_03.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/icon_03.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_01.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_01.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/button_close_pressed.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/button_close_pressed.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/logo.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/icon_camera_pressed.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/icon_camera_pressed.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/button_close_normal.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/button_close_normal.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/reticle.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/reticle.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_plus_pressed.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_plus_pressed.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/camera_button_background.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/camera_button_background.xml"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/close_button_background.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/close_button_background.xml"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/scanline.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/scanline.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/button_close_pressed.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/button_close_pressed.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/vuforia_splash.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/vuforia_splash.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_camera_normal.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_camera_normal.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/logo.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_02.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_02.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/card_info.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/card_info.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/reticle.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/reticle.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/icon_02.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/icon_02.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/vuforia_splash.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/vuforia_splash.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/icon_plus_pressed.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/icon_plus_pressed.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon.png"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/drawable/button_close_normal.png",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/drawable/button_close_normal.png"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/scanline.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/scanline.png"
     }
 ]

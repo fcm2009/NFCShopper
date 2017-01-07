@@ -1,4 +1,7 @@
-#Mon Jan 02 22:11:28 AST 2017
-base.0=/home/fcm2009/Downloads/lib/samples/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sun Jan 08 00:53:42 AST 2017
+base.0=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97843c3d68a148a6bfa39f26f7204b58aa0d4943
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/home/fcm2009/Downloads/lib/samples/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_31b670bce80775a97bad36160d7842a4baae6462/classes.dex
+base.1=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_31b670bce80775a97bad36160d7842a4baae6462
+file.0=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97843c3d68a148a6bfa39f26f7204b58aa0d4943/classes.dex

@@ -8,6 +8,8 @@
     <color name="semi_transparent_black">#C8000000</color>
     <color name="transparent">#00000000</color>
     <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="menu_activities_list_padding_left">24dp</dimen>
     <dimen name="menu_activities_list_padding_top_down">14dp</dimen>
     <dimen name="menu_entries_sides_padding">10dp</dimen>
@@ -76,6 +78,7 @@
     <string name="splash_screen_description">Vuforia Splash</string>
     <string name="target_quality_error_desc">The image has very little detail, please try another.</string>
     <string name="target_quality_error_title">Low Quality Image</string>
+    <string name="title_activity_nfcshopper">NFCShopper</string>
     <style name="SampleAppsTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowBackground">@color/black</item>

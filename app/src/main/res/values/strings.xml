@@ -67,5 +67,6 @@
     <string name="menu_button_green">Green</string>
 
     <string name="splash_screen_description">Vuforia Splash</string>
+    <string name="title_activity_nfcshopper">NFCShopper</string>
 
 </resources>

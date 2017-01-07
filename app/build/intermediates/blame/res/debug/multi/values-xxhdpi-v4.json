@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+        "outputFile": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/values-xxhdpi/dimens.xml",
+                    "file": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/values-xxhdpi/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 147
                 },
                 "from": {
-                    "file": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/values-xxhdpi/dimens.xml",
+                    "file": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/values-xxhdpi/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
