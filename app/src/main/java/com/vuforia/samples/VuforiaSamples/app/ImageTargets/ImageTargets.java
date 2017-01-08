@@ -107,7 +107,7 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
         Log.d(LOGTAG, "onCreate");
         super.onCreate(savedInstanceState);
 
-        //categories = getIntent().getStringArrayExtra("ImageNames");
+        categories = getIntent().getStringArrayExtra("com.vuforia.samples.NFCShopper.imageNames");
 
         vuforiaAppSession = new SampleApplicationSession(this);
 
@@ -318,19 +318,6 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
         if (!mCurrentDataset.load("ImageTargets/Food.xml", STORAGE_TYPE.STORAGE_APPRESOURCE))
             return false;
 
-        for(int i = 0; i < mCurrentDataset.getNumTrackables(); i++) {
-            boolean included = false;
-
-            for(int j = 0; j < categories.length; j++) {
-                if(mCurrentDataset.getTrackable(i).getName().equalsIgnoreCase(categories[j])) {
-                    included = true;
-                    break;
-                }
-            }
-
-            if(!included)
-                mCurrentDataset.destroy(mCurrentDataset.getTrackable(i));
-        }
 
         if (!objectTracker.activateDataSet(mCurrentDataset))
             return false;
@@ -734,5 +721,9 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
 
     private void showToast(String text) {
         Toast.makeText(this, text, Toast.LENGTH_SHORT).show();
+    }
+
+    public String[] getCategories() {
+        return this.categories;
     }
 }

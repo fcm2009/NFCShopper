@@ -4,76 +4,8 @@
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/checkedtextlayout.xml"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/sample_app_menu_group.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/camera_overlay.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/sample_app_menu_group_divider.xml"
-    },
-    {
-        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/card.xml",
-        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/card.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
-    },
-    {
-        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/activity_nfcshopper.xml",
-        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/activity_nfcshopper.xml"
-    },
-    {
-        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/activities_list_text_view.xml",
-        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/activities_list_text_view.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/camera_overlay_textreco.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/camera_overlay_textreco.xml"
-    },
-    {
-        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/activities_list.xml",
-        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/activities_list.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/camera_overlay_udt.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/activities_list.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/activities_list.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/camera_overlay_reticle.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/camera_overlay_reticle.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/about_screen.xml"
-    },
-    {
-        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
-        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/sample_app_menu_group.xml"
-    },
-    {
-        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
-        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/sample_app_menu_group_divider.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/activity_nfcshopper.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/activity_nfcshopper.xml"
-    },
-    {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/about_screen.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/checkedtextlayout.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/checkedtextlayout.xml"
     },
     {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
@@ -84,16 +16,24 @@
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/camera_overlay_with_scanline.xml"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/camera_overlay_with_scanline.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/camera_overlay_with_scanline.xml"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/card.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/card.xml"
+    },
+    {
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/activity_nfcshopper.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/activity_nfcshopper.xml"
+    },
+    {
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/activities_list_text_view.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/activities_list_text_view.xml"
+    },
+    {
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/activities_list.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/activities_list.xml"
     },
     {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/textlayout.xml",
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/textlayout.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/activities_list_text_view.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/activities_list_text_view.xml"
     },
     {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
@@ -102,10 +42,6 @@
     {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/textlayout.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/textlayout.xml"
     },
     {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml",
@@ -120,19 +56,15 @@
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/sample_app_menu_layer.xml"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/splash_screen.xml"
-    },
-    {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/card.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/card.xml"
-    },
-    {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/camera_overlay_reticle.xml",
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/camera_overlay_reticle.xml"
     },
     {
-        "merged": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/merged/debug/layout/sample_app_menu_layer.xml",
-        "source": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/layout/sample_app_menu_layer.xml"
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/sample_app_menu_group.xml"
+    },
+    {
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/layout/sample_app_menu_group_divider.xml"
     }
 ]

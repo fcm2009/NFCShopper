@@ -10,6 +10,7 @@ countries.
 package com.vuforia.samples.VuforiaSamples.app.ImageTargets;
 
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.Vector;
 
 import javax.microedition.khronos.egl.EGLConfig;
@@ -192,6 +193,10 @@ public class ImageTargetRenderer implements GLSurfaceView.Renderer, SampleAppRen
         for (int tIdx = 0; tIdx < state.getNumTrackableResults(); tIdx++) {
             TrackableResult result = state.getTrackableResult(tIdx);
             Trackable trackable = result.getTrackable();
+
+            if(!Arrays.asList(this.mActivity.getCategories()).contains(trackable.getName()))
+                continue;
+
             printUserData(trackable);
             Matrix44F modelViewMatrix_Vuforia = Tool
                     .convertPose2GLMatrix(result.getPose());

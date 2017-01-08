@@ -1,31 +1,5 @@
 [
     {
-        "outputFile": "/home/fcm2009/Downloads/lib/samples/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 5,
-                    "endColumn": 12,
-                    "endOffset": 283
-                },
-                "from": {
-                    "file": "/home/fcm2009/Downloads/lib/samples/app/src/main/res/values-v13/styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 115,
-                        "endLine": 6,
-                        "endColumn": 12,
-                        "endOffset": 343
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
         "map": [
             {

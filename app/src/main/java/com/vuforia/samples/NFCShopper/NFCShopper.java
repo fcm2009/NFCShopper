@@ -35,10 +35,10 @@ public class NFCShopper extends Activity implements NfcAdapter.CreateNdefMessage
         setContentView(R.layout.activity_nfcshopper);
 
         list = new Item[4];
-        list [0] = new Item(1, "Milk");
-        list [1] = new Item(2, "Egg");
-        list [2] = new Item(3, "Fruits");
-        list [3] = new Item(4, "Bread");
+        list [0] = new Item(1, "Nuts");
+        list [1] = new Item(2, "Vegetables");
+        list [2] = new Item(3, "Pancakes");
+        list [3] = new Item(4, "Fruits");
 
         ListView itemList = (ListView) findViewById(R.id.itemList);
         ArrayAdapter adapter = new ArrayAdapter<Item>(this, R.layout.checkedtextlayout, R.id.checkedTextView,  list);
@@ -150,13 +150,13 @@ public class NFCShopper extends Activity implements NfcAdapter.CreateNdefMessage
                 checkImagesOfList = checkImagesOfList && (itemSelectedList.get(i).image != null);
 
             if(checkImagesOfList) {
-                Intent intent = new Intent(this, com.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivitySplashScreen.class);
+                Intent intent = new Intent(this, com.vuforia.samples.VuforiaSamples.app.ImageTargets.ImageTargets.class);
 
                 String[] str = new String[itemSelectedList.size()];
                 for (int i = 0; i < str.length; i++)
                     str[i] = itemSelectedList.get(i).image;
 
-                intent.putExtra("imageNames", str);
+                intent.putExtra("com.vuforia.samples.NFCShopper.imageNames", str);
                 startActivity(intent);
             }
 
