@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jan 08 01:33:09 AST 2017
+#Sun Jan 08 02:00:16 AST 2017
 60.set=ANDROID_RESOURCE
 52.set=ASSET
 53.base=/home/fcm2009/Downloads/lib/samples/app/build/intermediates/res/resources-debug.ap_

@@ -107,7 +107,7 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
         Log.d(LOGTAG, "onCreate");
         super.onCreate(savedInstanceState);
 
-        categories = getIntent().getStringArrayExtra("ImageNames");
+        //categories = getIntent().getStringArrayExtra("ImageNames");
 
         vuforiaAppSession = new SampleApplicationSession(this);
 
