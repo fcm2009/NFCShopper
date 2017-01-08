@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_nfcshopper"
     android:layout_width="match_parent"
@@ -13,13 +15,20 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <ListView
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/mainList"></ListView>
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            android:orientation="vertical">
+
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/mainList"></ListView>
+        </LinearLayout>
 
         <ImageButton
             android:layout_width="match_parent"
@@ -31,22 +40,26 @@
             android:onClick="addItemsToList"
             android:background="@null"/>
 
-        <ListView
-            android:layout_width="match_parent"
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.4"
+        android:orientation="vertical">
+
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/itemList"></ListView>
+        </LinearLayout>
+
+        <ImageButton
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/itemList"></ListView>
-
+            android:id="@+id/camera"
+            android:src="@drawable/camera_48"
+            android:onClick = "startCamera"
+            android:padding="5dp"
+            android:background="@null"
+            android:layout_gravity="bottom|end"/>
     </LinearLayout>
-
-    <ImageButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/camera"
-        android:src="@drawable/camera_48"
-        android:onClick = "startCamera"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:padding="5dp"
-        android:background="@null"/>
 </RelativeLayout>

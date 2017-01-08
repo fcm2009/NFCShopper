@@ -36,12 +36,12 @@
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/round_bg.xml"
     },
     {
-        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_01.png",
-        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_01.png"
-    },
-    {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/logo.png",
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_01.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_01.png"
     },
     {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/button_close_normal.png",

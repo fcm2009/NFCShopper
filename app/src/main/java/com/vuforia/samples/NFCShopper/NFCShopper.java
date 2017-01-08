@@ -38,7 +38,7 @@ public class NFCShopper extends Activity implements NfcAdapter.CreateNdefMessage
         list [0] = new Item(1, "Nuts");
         list [1] = new Item(2, "Vegetables");
         list [2] = new Item(3, "Pancakes");
-        list [3] = new Item(4, "Fruits");
+        list [3] = new Item(4, "Fruits");;
 
         ListView itemList = (ListView) findViewById(R.id.itemList);
         ArrayAdapter adapter = new ArrayAdapter<Item>(this, R.layout.checkedtextlayout, R.id.checkedTextView,  list);
@@ -67,13 +67,13 @@ public class NFCShopper extends Activity implements NfcAdapter.CreateNdefMessage
                 Item item = itemSelectedList.remove(position);
                 selectedAdapter.notifyDataSetChanged();
 
-                ListView itemList = (ListView) findViewById(R.id.itemList);
+                ListView itemList = (ListView)findViewById(R.id.itemList);
                 int i;
-                for(i = 0; i < itemList.getCount() && !item.equal(list[i]); i++);
+                for(i = 0; i < list.length && !item.equal(list[i]); i++);
                 CheckedTextView text = (CheckedTextView)itemList.getChildAt(i);
                 if(text.isChecked()) {
                     text.toggle();
-                    itemList.performItemClick(text, i, text.getId());
+                    itemList.performItemClick(itemList.getChildAt(i), i, itemList.getChildAt(i).getId());
                 }
             }
         });
