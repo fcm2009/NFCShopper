@@ -1,4 +1,4 @@
-#Sun Jan 08 08:40:04 AST 2017
+#Thu Jan 19 07:27:11 AST 2017
 base.0=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97843c3d68a148a6bfa39f26f7204b58aa0d4943
 renamed.1=classes2.dex
 renamed.0=classes.dex

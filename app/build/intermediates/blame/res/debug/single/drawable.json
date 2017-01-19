@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/bg00.png",
-        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/bg00.png"
-    },
-    {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/icon_03.png",
         "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/icon_03.png"
+    },
+    {
+        "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/bg00.png",
+        "source": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/src/main/res/drawable/bg00.png"
     },
     {
         "merged": "/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/merged/debug/drawable/camera_button_background.xml",

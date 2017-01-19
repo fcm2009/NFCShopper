@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jan 08 08:40:05 AST 2017
+#Thu Jan 19 07:27:13 AST 2017
 60.set=ANDROID_RESOURCE
 52.set=DEX
 53.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_
@@ -7,7 +7,7 @@
 36.set=ANDROID_RESOURCE
 28.set=ASSET
 98.set=DEX
-1.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout-v16/sample_app_menu_group.xml
+1.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout/camera_overlay.xml
 13.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug
 45.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug/MultiTargets/MT_about.html
 60.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_
@@ -57,7 +57,7 @@
 18.set=ASSET
 96.set=ASSET
 88.set=ASSET
-0.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout/camera_overlay.xml
+0.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout-v16/sample_app_menu_group.xml
 44.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout/sample_app_menu_group_radio_button.xml
 12.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_
 7.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/drawable/bg00.png
@@ -180,7 +180,7 @@
 25.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug/VirtualButtons/VB_about.html
 2.set=DEX
 72.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug/Tarmac.dat
-79.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout/textlayout.xml
+79.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout/camera_overlay_reticle.xml
 32.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/drawable/button_close_pressed.png
 42.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug
 39.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex
@@ -227,7 +227,7 @@ count=107
 24.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug/Tarmac.xml
 0.set=ANDROID_RESOURCE
 71.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug/StonesAndChips.dat
-78.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout/camera_overlay_reticle.xml
+78.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout/textlayout.xml
 105.set=ASSET
 31.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/layout/camera_overlay_udt.xml
 41.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug
@@ -269,7 +269,7 @@ count=107
 39.set=DEX
 85.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_
 23.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
-70.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/logo.png
+70.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon_camera_pressed.png
 77.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
 103.set=ANDROID_RESOURCE
 30.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
@@ -309,7 +309,7 @@ count=107
 37.set=ANDROID_RESOURCE
 29.set=ANDROID_RESOURCE
 37.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_
-69.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon_camera_pressed.png
+69.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/logo.png
 84.base=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/res/resources-debug.ap_
 99.set=ANDROID_RESOURCE
 22.file=/home/semsem/AndroidStudioProjects/NFC_Shopper/app/build/intermediates/assets/debug/card_info.png
